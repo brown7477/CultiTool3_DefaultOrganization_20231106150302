@@ -1,0 +1,31 @@
+Task:
+Full Stack React Web App for aggregating and displaying Cannabis Stains and their chemical composition make up. Strains should be displayed in a table in order based on the tch%. App will need login and register pages and user types of Admin, Cultivator, and Dispensary. Only Cultivator can add or edit Strains. Dispensaries can add strains to their portfolio of inventory but can not edit the Strain Data. Create app as a MERN stack.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+web application
+
+Ideas:
+
+
+Language:
+ JavaScript
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
